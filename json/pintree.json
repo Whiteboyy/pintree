@@ -1,8 +1,8 @@
 [
   {
     "type": "folder",
-    "addDate": 1567089643172,
-    "title": "书签栏",
+    "addDate": 1718526477999,
+    "title": "Bookmarks Bar",
     "children": [
       {
         "type": "folder",
@@ -640,14 +640,7 @@
             "url": "https://www.httpcn.com/"
           }
         ]
-      }
-    ]
-  },
-  {
-    "type": "folder",
-    "addDate": 1718526477999,
-    "title": "Bookmarks Bar",
-    "children": [
+      },
       {
         "type": "link",
         "addDate": 1718526687700,
